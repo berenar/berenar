@@ -1,5 +1,4 @@
-### Hi there 👋
-Do you want to build something together?
+### Hi there 👋 Do you want to build something together? 🔨👨🏻‍💻
 
 <!--
 **berenar/berenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
